@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "message": "",
+  "data": {
+    "name": "Grand Union",
+    "address": "Surrey, GU15 3XD",
+    "status": "Available",
+    "homeIcon": {
+      "path": "https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=41672&sMediaSubType=image2&class=image-dev&resolution=1536&dpr=1.25",
+      "alt": "Home"
+    },
+    "propertyTypes": "bedroom apartments",
+    "currencyIcon": {
+      "path": "https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=41672&sMediaSubType=image2&class=image-dev&resolution=1536&dpr=1.25",
+      "alt": "Price"
+    },
+    "priceRange": "£207,500 – £350,000",
+    "shortDescription": "Situated in the heart of Camberley town centre, this exclusive collection of apartments promises stylish living for its residents.",
+    "responseTap": {
+      "backupPhoneNumber": "054343343",
+      "trackingNumber": "id-responsetap"
+    },
+    "viewPropertiesButtonLabel": "View 4 Properties",
+    "viewDevelopmentButton": {
+      "name": "View developments",
+      "url": "https://www.berkeleygroup.co.uk/developments/london/albert-embankment/the-dumont"
+    },
+    "contactUsButton": {
+      "name": "ContactUs",
+      "url": "https://www.berkeleygroup.co.uk/developments/london/albert-embankment/the-dumont#page-19463"
+    },
+    "previewImage": {
+      "path": "https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=41672&sMediaSubType=image2&class=image-dev&resolution=1536&dpr=1.25",
+      "alt": "Grand Union"
+    },
+    "brandImage": {
+      "path": "https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=41674&sMediaSubType=portrait&class=logo-dev&resolution=1536&dpr=1.25",
+      "alt": "Logo"
+    }
+  }
+}

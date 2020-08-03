@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "message": "",
+  "data": {
+    "items": [
+      {
+        "title": "Reading",
+        "developmentIds": ["lorem-ipsum-1", "lorem-ipsum-2"]
+      },
+      {
+        "title": "Reading1",
+        "developmentIds": ["lorem-ipsum-3"]
+      },
+      {
+        "title": "Reading2",
+        "developmentIds": ["lorem-ipsum-4"]
+      },
+      {
+        "title": "Reading3",
+        "developmentIds": ["lorem-ipsum-5"]
+      },
+      {
+        "title": "Reading4",
+        "developmentIds": ["lorem-ipsum-6"]
+      },
+      {
+        "title": "Reading5",
+        "developmentIds": ["lorem-ipsum-7"]
+      }
+    ]
+  }
+}

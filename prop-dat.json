@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "message": "",
+  "data": {
+    "headings": {
+      "propertynumber": "Number",
+      "propertystatus": "Status",
+      "propertyprice": "Price",
+      "propertyestimatedcompletion": "Est. completion",
+      "propertytype": "Type",
+      "phaseid": "Phase",
+      "propertynoofbedrooms": "Bedrooms",
+      "propertystyle": "Design Type",
+      "propertyfloor": "Floor",
+      "propertysquarefootage": "Square Footage"
+    },
+    "configuration": {
+      "itemsPerPage": 2,
+      "headerTemplateMessage": "Showing {start} to {end} of {rows} properties\r\n"
+    },
+    "items": [
+      {
+        "button": {
+          "name": "View property",
+          "url": "/Property?propertyid=D9C4AA0E75844BF09C3BBCD4F55ACAA5&sitecode=G021&plotcode=331&plotnumber=99955&developmentid=FD8A14C840E24D74A2F0ECF9ADC71180&developmentname=Endava-Sovereign-Court"
+        },
+        "fields": {
+          "propertynumber": "99955",
+          "propertystatus": "Available",
+          "propertyprice": "£699,550",
+          "propertyestimatedcompletion": "Completed",
+          "propertytype": "Apartment",
+          "phaseid": "",
+          "propertynoofbedrooms": "5",
+          "propertystyle": "",
+          "propertyfloor": "10",
+          "propertysquarefootage": "150"
+        }
+      },
+      {
+        "button": {
+          "name": "View property",
+          "url": "/Property?propertyid=F4887E0A91464A78A8E8A5157E2205F7&sitecode=G021&plotcode=321&plotnumber=99971&developmentid=FD8A14C840E24D74A2F0ECF9ADC71180&developmentname=Endava-Sovereign-Court"
+        },
+        "fields": {
+          "propertynumber": "99971",
+          "propertystatus": "Available",
+          "propertyprice": "£699,990",
+          "propertyestimatedcompletion": "Completed",
+          "propertytype": "Panthouse",
+          "phaseid": "",
+          "propertynoofbedrooms": "6",
+          "propertystyle": "",
+          "propertyfloor": "1",
+          "propertysquarefootage": "235"
+        }
+      }
+    ]
+  }
+}

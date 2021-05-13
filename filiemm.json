@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "data": {
+    "headings": {
+      "type": "Type",
+      "name": "Name",
+      "dateAdded": "Date added",
+      "fileSize": "File size"
+    },
+    "configuration": {
+      "itemsPerPage": 3,
+      "headerTemplateMessage": "There are no items"
+    },
+    "items": [
+    
+    ]
+  }
+}

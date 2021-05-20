@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "data": {
+    "headings": {
+      "searchdate": "Date of search",
+      "searchlocation": "Location",
+      "searchpropertytype": "Property type",
+      "searchbedrooms": "Bedrooms",
+      "searchprice": "price range",
+      "searchactions": "actions"
+    },
+    "items": [
+      {
+        "fields": {
+          "searchdate": "7 december 2020",
+          "searchlocation": "London",
+          "searchpropertytype": "Apartament",
+          "searchbedrooms": "2-4",
+          "searchprice": {
+              "text": "up to 25k",
+              "value": "2500000"
+          }
+        },
+        "actions": {
+          "view": {
+            "name": "View results",
+            "url": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+          },
+          "save": {
+            "name": "Save search",
+            "url": "https://raw.githubusercontent.com/ashes27/developments.json/master/success-feedback.json"
+          },
+          "isSaved": false
+        }
+      },
+      {
+        "fields": {
+          "searchdate": "7 december 2020",
+          "searchlocation": "London",
+          "searchpropertytype": "Apartament",
+          "searchbedrooms": "2-4",
+          "searchprice": {
+              "text": "up to 26k",
+              "value": "26000"
+          }
+        },
+        "actions": {
+          "view": {
+            "name": "View results",
+            "url": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+          },
+          "save": {
+            "name": "Save search",
+            "url": "https://raw.githubusercontent.com/ashes27/developments.json/master/success-feedback.json"
+          },
+          "isSaved": true
+        }
+      }
+    ]
+  }
+}

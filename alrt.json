@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "data": {
+    "headings": {
+      "saveddate": "Date of search",
+      "savedlocation": "Location",
+      "savedpropertytype": "Property type",
+      "savedbedrooms": "Bedrooms",
+      "savedprice": "price range",
+      "savedalerts": "alerts",
+      "savedactions": "actions"
+    },
+    "items": [
+      {
+        "fields": {
+          "saveddate": "8 december 2020",
+          "savedlocation": "London",
+          "savedpropertytype": "House",
+          "savedbedrooms": "2-4",
+          "savedprice": "$260k",
+          "savedalerts": ""
+        },
+        "actions": {
+          "view": {
+            "name": "View results",
+            "url": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+          },
+         "delete": {
+            "name": "Delete",
+            "url": "https://raw.githubusercontent.com/ashes27/developments.json/master/success-feedback.json"
+          }
+        },
+        "configuration": {
+          "isAlertSaved": false
+        }
+      },
+      {
+        "fields": {
+          "saveddate": "7 december 2020",
+          "savedlocation": "London",
+          "savedpropertytype": "Apartament",
+          "savedbedrooms": "2-4",
+          "savedprice": "$260k",
+          "savedalerts": ""
+        },
+        "actions": {
+          "view": {
+            "name": "View results",
+            "url": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+          },
+         "delete": {
+            "name": "Delete",
+            "url": "https://raw.githubusercontent.com/ashes27/developments.json/master/success-feedback.json"
+          }
+        },
+        "configuration": {
+          "isAlertSaved": true
+        }
+      }
+    ]
+  }
+}
